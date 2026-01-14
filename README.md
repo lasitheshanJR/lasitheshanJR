@@ -30,6 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" style="border-radius:50%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" style="border-radius:50%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/visualstudio/visualstudio-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/git/git-original.svg" width="55" style="border-radius:50%;" />
 </p>
 
 ---
