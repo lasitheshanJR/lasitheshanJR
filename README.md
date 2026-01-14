@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lasith Eshan</h1>
-<h3 align="center">Software Engineering Undergraduate | Intern | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Lasith Eeshan</h1>
+<h3 align="center">Computer Science Engineering Undergraduate | Robotics Enthusiasm | AI & ML Enthusiasm </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
@@ -13,7 +13,7 @@
 - 💼 Software Engineering Intern (Sysco / Industry Experience)
 - 🌱 Currently learning **React, Three.js, Cloud & Machine Learning**
 - 💡 Interested in **Web Development, AI, Multi-Agent Systems**
-- 📫 Reach me: **your.email@gmail.com**
+- 📫 Reach me: **techlasi333@gmail.com**
 
 ---
 
@@ -70,7 +70,7 @@
   <a href="www.linkedin.com/in/lasith-eeshan-b30a42382">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:techlasi333.email@gmail.com">
+  <a href="mailto:techlasi333@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
