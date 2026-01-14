@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Lasith Eshan</h1>
+<h3 align="center">Software Engineering Undergraduate | Intern | Tech Enthusiast</h3>
 
-<!--
-**lasitheshanJR/lasitheshanJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.Sc. Engineering Undergraduate (University of Moratuwa)
+- 💼 Software Engineering Intern (Sysco / Industry Experience)
+- 🌱 Currently learning **React, Three.js, Cloud & Machine Learning**
+- 💡 Interested in **Web Development, AI, Multi-Agent Systems**
+- 📫 Reach me: **your.email@gmail.com**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" style="border-radius:50%;" />
+</p>
+
+---
+
+## 🚀 Projects
+
+- 🔹 **Multi-Agent Weather System** – Python, A2A, ADK
+- 🔹 **React Frontend Apps** – Modern UI, Tailwind
+- 🔹 **ESP32 & Robotics Projects** – Embedded Systems
+- 🔹 **Machine Learning Pipelines** – Scikit-learn, RF
+
+📌 *More projects available in my repositories.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
