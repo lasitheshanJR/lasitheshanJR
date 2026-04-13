@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Sc. Engineering Undergraduate (University of Moratuwa)
-- 💼 Software Engineering Intern (Sysco / Industry Experience)
+- 💼 Software Engineering Intern ( Industry Experience)
 - 🌱 Currently learning **React, Three.js, Cloud & Machine Learning**
 - 💡 Interested in **Web Development, AI, Multi-Agent Systems**
 - 📫 Reach me: **techlasi333@gmail.com**
