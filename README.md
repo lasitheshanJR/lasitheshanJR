@@ -55,10 +55,9 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lasitheshanJR&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true)
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lasitheshanJR&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasitheshanJR&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Languages" />
 </p>
 
 ---
