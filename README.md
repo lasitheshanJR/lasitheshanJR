@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Engineering Undergraduate | Robotics Enthusiasm | AI & ML Enthusiasm </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lasitheshanJR&label=PROFILE+VIEWS&style=for-the-badge&color=ff0000&labelColor=000000" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lasitheshanJR&label=PROFILE+VIEWS&style=for-the-badge&color=#FF0000&labelColor=000000" alt="Profile Views" />
 </p>
 
 ---
