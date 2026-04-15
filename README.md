@@ -9,12 +9,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc. Engineering Undergraduate (University of Moratuwa)
-- 💼 Software Engineering Intern ( Industry Experience)
-- 🌱 Currently learning **React, Three.js, Cloud & Machine Learning**
-- 💡 Interested in **Web Development, AI, Multi-Agent Systems**
-- 📫 Reach me: **techlasi333@gmail.com**
-- 🤗 Fun fact: call me ishu (I think urnt a hinduism 😫)
+- 🎓 B.Sc. Engineering Undergraduate ( University of not_exsisting )
+- 💼 Software Engineering Intern ( Ctrl C + Ctr V 😁 )
+- 🌱 Currently learning **React, Three.js, Cloud & Machine Learning** ( Aren't we build under those 😋 )
+- 💡 Interested in **Web Development, AI, Multi-Agent Systems** ( Like to create an another simulation world like our world 🫠 )
+- 📫 Reach me: **techlasi333@gmail.com** ( Don't ask for phone number 🤣 )
+- 🤗 Fun fact: call me ishu ( I think you aren't a hinduism 😫 )
 
 ---
 
