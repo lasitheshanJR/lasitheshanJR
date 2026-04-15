@@ -1,8 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Lasith Eeshan </h1> 
 <h3 align="center">Computer Science Engineering Undergraduate | Robotics Enthusiasm | AI & ML Enthusiasm </h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lasitheshanJR&label=PROFILE+VIEWS&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="Profile Views" />
 </p>
 
 ---
