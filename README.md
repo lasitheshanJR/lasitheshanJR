@@ -65,6 +65,10 @@
 
 ---
 
+![snake svg](https://raw.githubusercontent.com/lasitheshanJR/lasitheshanJR/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
