@@ -55,9 +55,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lasitheshanJR&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
