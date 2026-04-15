@@ -14,7 +14,7 @@
 - 🌱 Currently learning **React, Three.js, Cloud & Machine Learning**
 - 💡 Interested in **Web Development, AI, Multi-Agent Systems**
 - 📫 Reach me: **techlasi333@gmail.com**
-- 🤗 Fun fact: call me ishu 
+- 🤗 Fun fact: call me ishu (I think urnt a hinduism 😫)
 
 ---
 
