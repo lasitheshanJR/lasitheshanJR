@@ -38,6 +38,11 @@
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/arduino/arduino-original.svg" width="55" style="border-radius:50%;" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" width="55" style="border-radius:50%;" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-original.svg" width="55" style="border-radius:50%;" />
+
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/blender/blender-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dart/dart-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/figma/figma-original.svg" width="55" style="border-radius:50%;" />
 </p>
 
 ---
