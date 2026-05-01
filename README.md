@@ -43,6 +43,11 @@
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dart/dart-original.svg" width="55" style="border-radius:50%;" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original.svg" width="55" style="border-radius:50%;" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/figma/figma-original.svg" width="55" style="border-radius:50%;" />
+
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/firebase/firebase-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/flutter/flutter-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/androidstudio/androidstudio-original.svg" width="55" style="border-radius:50%;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jupyter/jupyter-original.svg" width="55" style="border-radius:50%;" />
 </p>
 
 ---
