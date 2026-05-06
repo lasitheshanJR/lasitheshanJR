@@ -66,7 +66,7 @@
 ## 📊 GitHub Stats
 
 
-```html id="lrxmb0"
+id="lrxmb0"
 <p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=lasitheshanJR&show_icons=true&theme=tokyonight&hide_border=true"
@@ -78,7 +78,7 @@
     height="180em"
   />
 </p>
-```
+
 
 
 
