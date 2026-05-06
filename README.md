@@ -66,17 +66,20 @@
 ## 📊 GitHub Stats
 
 
+```html id="lrxmb0"
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=lasitheshanJR&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&cache_seconds=1800" 
-    height="180em" 
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=lasitheshanJR&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180em"
   />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasitheshanJR&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&cache_seconds=1800" 
-    height="180em" 
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lasitheshanJR&layout=compact&theme=tokyonight&hide_border=true"
+    height="180em"
   />
 </p>
+```
+
 
 
 
