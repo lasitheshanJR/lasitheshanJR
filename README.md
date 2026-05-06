@@ -65,7 +65,7 @@
 
 ## 📊 GitHub Stats
 
-```html
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=lasitheshanJR&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&cache_seconds=1800" 
@@ -77,7 +77,7 @@
     height="180em" 
   />
 </p>
-```
+
 
 
 ---
