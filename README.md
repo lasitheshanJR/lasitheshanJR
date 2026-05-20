@@ -67,7 +67,7 @@
 
 
 
-
+<div style="display: flex; gap: 10px;">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=lasitheshanJR&show_icons=true&theme=tokyonight&hide_border=true"
     height="180em"
@@ -77,7 +77,7 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lasitheshanJR&layout=compact&theme=tokyonight&hide_border=true"
     height="180em"
   />
-
+</div>
 
 
 
