@@ -66,7 +66,7 @@
 ## 📊 GitHub Stats
 
 
-needed to update the stats
+l
 
 <div style="display: flex; gap: 20px;">
   <img
