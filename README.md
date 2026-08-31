@@ -68,15 +68,17 @@
 
 l
 
-<div style="display: flex; gap: 20px;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=lasitheshanJR&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180em"
-  />&nbsp;&nbsp;<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasitheshanJR&layout=compact&theme=tokyonight&hide_border=true"
-    height="180em"
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lasitheshanJR&theme=tokyonight" 
+    height="180em" 
+  />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=lasitheshanJR&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180em" 
   />
 </div>
+
 <div style="display: flex; gap: 20px;">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=lasitheshanJR&theme=tokyonight" 
