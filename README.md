@@ -80,10 +80,6 @@
 </div>
 
 
-<img 
-  src="https://github-readme-stats-fast.vercel.app/api?username=lasitheshanJR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-  height="180em" 
-/>
 
 
 ---
