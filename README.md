@@ -70,10 +70,10 @@ l
 
 <div style="display: flex; gap: 20px;">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=lasitheshanJR&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=lasitheshanJR&show_icons=true&theme=tokyonight&hide_border=true"
     height="180em"
   />&nbsp;&nbsp;<img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lasitheshanJR&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasitheshanJR&layout=compact&theme=tokyonight&hide_border=true"
     height="180em"
   />
 </div>
