@@ -79,12 +79,6 @@ l
   />
 </div>
 
-<div style="display: flex; gap: 20px;">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=lasitheshanJR&theme=tokyonight" 
-    height="180em" 
-  />
-</div>
 
 
 
