@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Lasith Eeshan </h1> 
+<h1 align="center"> Hi , I'm Lasith Eeshan </h1> 
 <h3 align="center">Computer Science Engineering Undergraduate | Robotics Enthusiasm | AI & ML Enthusiasm </h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
  
 ---
 
-## 👨‍💻 About Me
+##  About Me
  
 - 🎓 B.Sc. Engineering Undergraduate ( University of not_exsisting )
 - 💼 Software Engineering Intern ( Ctrl C + Ctr V 😁 )
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" width="55" style="border-radius:50%;" />
@@ -52,14 +52,14 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 - 🔹 **Multi-Agent Weather System** – Python, A2A, ADK
 - 🔹 **React Frontend Apps** – Modern UI, Tailwind
 - 🔹 **ESP32 & Robotics Projects** – Embedded Systems
 - 🔹 **Machine Learning Pipelines** – Scikit-learn, RF
 
-📌 *More projects available in my repositories.*
+ *More projects available in my repositories.*
 
 ---
 
@@ -88,7 +88,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lasith-eeshan-b30a42382/">
