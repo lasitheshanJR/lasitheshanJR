@@ -54,10 +54,10 @@
 
 ##  Projects
 
-- 🔹 **Multi-Agent Weather System** – Python, A2A, ADK
-- 🔹 **React Frontend Apps** – Modern UI, Tailwind
-- 🔹 **ESP32 & Robotics Projects** – Embedded Systems
-- 🔹 **Machine Learning Pipelines** – Scikit-learn, RF
+🔹 **Multi-Agent Weather System** – Python, A2A, ADK
+🔹 **React Frontend Apps** – Modern UI, Tailwind
+🔹 **ESP32 & Robotics Projects** – Embedded Systems
+🔹 **Machine Learning Pipelines** – Scikit-learn, RF
 
  *More projects available in my repositories.*
 
